@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="23744e06-bd63-4038-8364-4833385c5da5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/f/2f7416faadce35a30f70b8d104eaec1930fdc32f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/e/ee7e99870533f663438475bc0204e96c4f833ef5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f6b619022adca248a02b19fce46902589b6e2e67" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/spring-cloud-config-repo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-client-acceptance.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-client-development.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-client-personal.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-client-prod.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-client-test.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1VZFi9viCoUKlD3RcZ8X20Af3GH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23744e06-bd63-4038-8364-4833385c5da5" name="Default Changelist" comment="" />
+      <created>1577452834810</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577452834810</updated>
+      <workItem from="1577452837666" duration="1233000" />
+      <workItem from="1577454101647" duration="1790000" />
+    </task>
+    <task id="LOCAL-00001" summary="first test properties">
+      <created>1577453489022</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577453489022</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first test properties" />
+    <option name="LAST_COMMIT_MESSAGE" value="first test properties" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2531" y="322" key="CommitChangelistDialog2" timestamp="1577453488907">
+      <screen x="1680" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2531" y="322" key="CommitChangelistDialog2/1680.0.2560.1440/0.0.1680.1050@1680.0.2560.1440" timestamp="1577453488907" />
+    <state x="2560" y="460" key="Vcs.Push.Dialog.v2" timestamp="1577453491923">
+      <screen x="1680" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2560" y="460" key="Vcs.Push.Dialog.v2/1680.0.2560.1440/0.0.1680.1050@1680.0.2560.1440" timestamp="1577453491923" />
+  </component>
+</project>

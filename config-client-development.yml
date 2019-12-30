@@ -1,6 +1,6 @@
 sample:
   value:
-    min: 5
+    min: 6
     max: 100
-    fix: developmentTest
+    fix: developmentTest2
     label: master

@@ -1,6 +1,6 @@
 sample:
   value:
-    min: 1
+    min: 70
     max: 100
     fix: development
-    label: master
+    label: master-label

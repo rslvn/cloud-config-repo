@@ -2,3 +2,6 @@ second:
   name: second-profile
   id: 44444
   count: 10
+
+common:
+  property: common2

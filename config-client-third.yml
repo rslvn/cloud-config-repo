@@ -2,3 +2,6 @@ third:
   name: third-profile
   id: 66666
   count: 11112
+
+common:
+  property: common3

@@ -4,3 +4,5 @@ sample:
     max: 100
     fix: development
     label: master-label
+common:
+  property: common2-develop-refresh

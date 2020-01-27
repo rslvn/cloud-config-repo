@@ -4,4 +4,4 @@ second:
   count: 10
 
 common:
-  property: common2-new
+  property: common2-new-old

@@ -6,3 +6,8 @@ sample:
     label: master-label
 common:
   property: common2-develop-refresh
+
+logging:
+  level:
+    org:
+      springframework: warn

@@ -5,9 +5,4 @@ sample:
     fix: development
     label: master-label
 common:
-  property: common2-develop-refresh
-
-logging:
-  level:
-    org:
-      springframework: warn
+  property: common2-develop-refresh2
